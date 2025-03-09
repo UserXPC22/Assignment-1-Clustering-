@@ -2,5 +2,5 @@
 
 
 Members:
-Aaron James Makinano
+Aaron James Makinano, 
 Xavier Paul R. Cabasan
